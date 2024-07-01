@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cybersecurité
 - 📫 How to reach me WhatsApp : 237659703338
 - 😄 Pronouns: samari
-- ⚡ Fun fact: je veux être un hacker
+- ⚡ Fun fact: mon prof d'informatique était chove
 
 <!---
 Mrx237/Mrx237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
